@@ -1,7 +1,6 @@
 # Tiago Pedutti - @tiagopedutti
 ---
-Technology enthusiast and loves teaching.
-
+Technology enthusiast and loves teaching.<br>
 In touch with the programming world since 10 years old :star:
 
 Here you can find some of my projects and code scratches since I've started as a programmer.
