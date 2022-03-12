@@ -1,7 +1,7 @@
 # Tiago Pedutti - @tiagopedutti
 ---
 Technology enthusiast and loves teaching :relaxed:<br>
-In touch with the programming world since 10 years old :star:<br>
+In touch with technology stuff for as long as I can remember :star:<br>
 From Praia Grande, Sao Paulo, Brazil :house::brazil:
 
 Here you can find some of my projects and code scratches since I've started as a programmer.
